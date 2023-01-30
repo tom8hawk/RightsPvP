@@ -1,0 +1,3 @@
+name: RightsPvP
+version: '${project.version}'
+main: ru.baronessdev.personal.rightspvp.RightsPvP

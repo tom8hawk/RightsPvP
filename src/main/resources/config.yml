@@ -1,0 +1,9 @@
+enabled: true
+
+# Для PvP у игрока должна быть одна из этих прав
+rights:
+  - 'rightspvp.allowed'
+
+messages:
+  enabled: true
+  no-rights: 'Вы не можете ударить этого игрока!'
